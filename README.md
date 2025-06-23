@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎓 Student Result Analyzer 📊
 
 A Python project that analyzes student marks from a CSV file and displays:
